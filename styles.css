@@ -1,0 +1,21 @@
+.whiskey-card img {
+  max-width: 100%;
+  max-height: 200px;
+  height: auto;
+  border-radius: 5px;
+}
+.whiskey-card {
+  max-width: 300px;
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.whiskey-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
